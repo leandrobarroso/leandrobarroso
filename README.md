@@ -1,6 +1,6 @@
-### Hi there, I'm [Leandro Barroso][website] 👋
+## Hi there, I'm [Leandro Barroso][website] 👋
 
-## Full Stack Web Developer
+### Full Stack Web Developer
 
 - 🔭 I’m currently looking for a job on Web Development!
 - 🌱 I’m currently learning to learn :thumbsup:
@@ -48,17 +48,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrobarroso&repo=rails-mister-cocktail)](https://github.com/leandrobarroso/rails-mister-cocktail)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrobarroso&repo=profile)](https://github.com/leandrobarroso/profile)
-
 
 [website]: https://leandrobarroso.com
 [twitter]: https://twitter.com/LRBarroso
